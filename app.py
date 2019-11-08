@@ -1,3 +1,3 @@
 
 print("hello")
-print(fields)
+print(configuration.fields)
