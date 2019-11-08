@@ -1,3 +1,3 @@
-import python-dotenv
-print("hello")
 
+print("hello")
+print(process.fields)
