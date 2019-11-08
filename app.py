@@ -1,4 +1,4 @@
-
-
+import os
+import python-dotenv
 print("hello")
-print(process.env.fields)
+print(os.getenv('fields'))
